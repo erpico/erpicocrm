@@ -1,4 +1,4 @@
-erpicocrm.exe	2.3.45.45
+erpicocrm.exe	2.3.46.46
 acllib.dll	1.2.2.24
 core.dll	1.2.42.53
 crmcore.dll	1.2.63.92
@@ -11,9 +11,9 @@ guilib.dll	1.2.6.36
 httplib.dll	1.2.6.34
 libmysql.dll	5.1.41.0
 license.dll	1.1.2.2
-supervisorpanel.dll	1.3.1.26
+supervisorpanel.dll	1.3.1.28
 visualreports.dll	1.2.5.44
-erpicoadmin.exe	1.2.1.28
+erpicoadmin.exe	1.2.1.29
 erpicoymaps.dll	1.3.2.33
 erpicoucihelper.exe	1.0.0.1
 igt.exe	1.3.2.30
