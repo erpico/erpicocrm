@@ -1,4 +1,4 @@
-erpicocrm.exe	2.3.46.46
+erpicocrm.exe	2.3.47.47
 acllib.dll	1.2.2.24
 core.dll	1.2.42.53
 crmcore.dll	1.2.63.92
