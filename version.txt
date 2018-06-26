@@ -1,4 +1,4 @@
-erpicocrm.exe	2.3.78.78
+erpicocrm.exe	2.3.79.79
 acllib.dll	1.2.3.33
 chrome_elf.dll	62.0.3202.94
 core.dll	1.2.47.60
