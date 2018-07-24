@@ -1,4 +1,4 @@
-erpicocrm.exe	2.3.86.86
+erpicocrm.exe	2.3.87.87
 acllib.dll	1.2.3.34
 chrome_elf.dll	62.0.3202.94
 core.dll	1.2.48.61
@@ -6,7 +6,7 @@ crmcore.dll	1.2.78.121
 erpicochat.dll	1.5.2.4
 erpicocti.dll	1.2.9.48
 erpicopbx.dll	1.2.3.37
-erpicosip.dll	1.2.3.37
+erpicosip.dll	1.2.3.38
 guiex.dll	1.0.0.1
 guilib.dll	1.2.9.48
 httplib.dll	1.2.7.44
