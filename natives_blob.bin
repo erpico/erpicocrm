@@ -1443,7 +1443,7 @@ getReadableStreamController,
 getReadableStreamStoredError,
 });
 });
-8WritableStreamv¥
+8WritableStreamº£
 (function(global, binding, v8) {
 'use strict';
 const _abortAlgorithm = v8.createPrivateSymbol('[[abortAlgorithm]]');
@@ -1523,7 +1523,6 @@ const verbUsedToGetTheDesiredSize = 'used to get the desiredSize';
 const verbAborted = 'aborted';
 const verbClosed = 'closed';
 const verbWrittenTo = 'written to';
-let useCounted = false;
 function createWriterLockReleasedError(verb) {
 return new TypeError(errWriterLockReleasedPrefix + verb);
 }
@@ -1540,10 +1539,6 @@ queue.forEach(promise => rejectPromise(promise, e));
 }
 class WritableStream {
 constructor(underlyingSink = {}, strategy = {}) {
-if (!useCounted) {
-binding.countUse('WritableStreamConstructor');
-useCounted = true;
-}
 InitializeWritableStream(this);
 const size = strategy.size;
 let highWaterMark = strategy.highWaterMark;
