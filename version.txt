@@ -1,8 +1,8 @@
-erpicocrm.exe	3.1.3.3
+erpicocrm.exe	3.1.4.4
 acllib.dll	2.1.1.3
 chrome_elf.dll	74.0.3729.157
 core.dll	2.1.1.3
-crmcore.dll	2.1.1.3
+crmcore.dll	2.1.1.4
 erpicochat.dll	2.1.1.1
 erpicocti.dll	2.1.1.3
 erpicopbx.dll	2.1.1.3
@@ -14,9 +14,9 @@ libcef.dll	74.1.19.0
 libmysql.dll	5.1.41.0
 license.dll	1.1.2.2
 supervisorpanel.dll	2.1.1.3
-visualreports.dll	2.1.1.3
+visualreports.dll	2.1.1.4
 erpicoadmin.exe	2.1.1.3
-erpicoymaps.dll	2.1.1.3
+erpicoymaps.dll	2.1.1.4
 erpicoucihelper.exe	1.0.0.1
 igt.exe	2.1.1.3
 erpicoinfo.dll	2.1.1.3
